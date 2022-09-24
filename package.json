@@ -1,7 +1,7 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸-MD",
   "version": "2.0,1",
-  "description": "WhatsApp Using Baileys Multi Device",
+  "description": "𝔾𝕖𝕟𝕒𝕣𝕖𝕥𝕖𝕕 𝔹𝕐:- 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "vihangayt.",
+  "author": "𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
@@ -74,10 +74,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vihangayt0/VihangaBot-MD-V2.git"
+    "url": "git+https://github.com/thamindudisna123/DisnaBot-MD-V3"
   },
   "bugs": {
-    "url": "https://github.com/vihangayt0/VihangaBot-MD-V2/issues"
+    "url": "https://github.com/thamindudisna123/DisnaBot-MD-V3/issues"
   },
-  "homepage": "https://github.com/vihangayt0/VihangaBot-MD-V2#readme"
+  "homepage": "https://github.com/thamindudisna123/DisnaBot-MD-V3#readme"
 }
