@@ -1,8 +1,8 @@
-# VIHANGA-BOT-MD
+# 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸-BOT-MD
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    Vihanga MD V3...
+   𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 MD V3...
 
     [©] New Features
 
@@ -15,7 +15,7 @@
      > and more...
     
 
-    [©] Vihanga MD V4 Upcoming Features[Not Relesed]
+    [©] 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 MD V4 Upcoming Features[Not Relesed]
 
      > Playstore Apk Downloder
      > Playstore Apk searcher
@@ -27,13 +27,10 @@
    
    
    
-   ```Thanks Fro using Vihanga MD```
+   ```Thanks Fro using 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 MD```
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
-# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
@@ -43,35 +40,16 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://telegra.ph/12-09-24-5" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸MD" src="https://telegra.ph/12-09-24-5"></a>
 
 </p>
 
-</div>
-
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
- 
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
-
-1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
-
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
-
-2. After That Upload Session.json File
-
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-
-5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
-
-
-## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
