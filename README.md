@@ -42,12 +42,13 @@
 
 <img src="https://telegra.ph/12-09-24-5" alt="GIF" width="300" height="270"/>
 
+     https://heroku.com/deploy
 </p>
 
   <p align="center">
-
+https://heroku.com/deploy
 <a href="#"><img title="𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸MD" src="https://telegra.ph/12-09-24-5"></a>
-
+https://heroku.com/deploy
 </p>
 
 
